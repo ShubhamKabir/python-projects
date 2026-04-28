@@ -1,0 +1,6 @@
+INFO User logged in
+ERROR Invalid password
+INFO File uploaded
+WARNING Disk space low
+ERROR Failed to save file
+INFO Logout
